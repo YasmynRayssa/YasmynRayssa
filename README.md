@@ -43,17 +43,11 @@ Me chamo Yasmyn Rayssa, sou uma acadêmica em Ciência da Computação pelo Inst
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/seulinkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/yasmyn-rayssa-costa-lima-b76573300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%236f42c1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="yasmynrayssa01@gmail.com">
     <img src="https://img.shields.io/badge/Email-%238e24aa?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-</p>
-
----
-
-<p align="center" style="color: #a259ff;">
-  Obrigado pela visita! 💜 Vamos codar juntos?
 </p>
